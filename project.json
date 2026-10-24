@@ -1,0 +1,8 @@
+{
+  "slug": "DataTalk",
+  "title": "DataTalk \u2014 Guarded Question-to-SQL",
+  "description": "Constrained question grammar with parameterized SQL, read-only SQLite authorization and VM-step budgets.",
+  "category": "cv",
+  "demo_args": [],
+  "expected_exit": 0
+}
